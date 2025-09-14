@@ -68,8 +68,8 @@ The frontend will start on http://localhost:3000
 
 ---
 
-```markdown
 ### 📂 Project Structure
+```markdown
 CRUD-app-using-Spring-Boot-ReactJS 
 │── backend/          # Spring Boot backend 
 │   ├── src/main/java # Java source code 
